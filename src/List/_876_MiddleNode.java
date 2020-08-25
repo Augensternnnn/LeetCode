@@ -1,4 +1,4 @@
-package _.LeetCode.List;
+package List;
 
 /**
  * 链表的中间节点

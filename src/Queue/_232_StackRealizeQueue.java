@@ -1,4 +1,4 @@
-package _.LeetCode.Queue;
+package Queue;
 
 
 import java.util.Stack;

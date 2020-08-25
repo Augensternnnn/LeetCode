@@ -1,4 +1,4 @@
-package _.LeetCode.List;
+package List;
 
 /**
  * 83.删除排序链表中的重复元素

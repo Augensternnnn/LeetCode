@@ -1,7 +1,9 @@
-package _.LeetCode.List;
+package List;
 
 public class ListNode {
     int val;
     ListNode next;
-    ListNode(int x) { val = x; }
+    ListNode(int val) {
+        val = val;
+    }
 }

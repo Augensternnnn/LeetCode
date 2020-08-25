@@ -1,4 +1,4 @@
-package _.LeetCode.Tree.N;
+package Tree.N;
 
 import java.util.List;
 

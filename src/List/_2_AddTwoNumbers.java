@@ -1,4 +1,4 @@
-package _.LeetCode.List;
+package List;
 
 /**
  * 2.两数相加

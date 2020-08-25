@@ -1,4 +1,4 @@
-package _.LeetCode.List;
+package List;
 
 /**
  * 203.移除链表元素

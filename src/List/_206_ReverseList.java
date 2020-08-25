@@ -1,4 +1,4 @@
-package _.LeetCode.List;
+package List;
 
 /**
  * 206.反转链表

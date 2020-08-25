@@ -1,11 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="165e0baa-4053-4212-9dc4-5eb925d15bd2" name="Default Changelist" comment="" />
+    <list default="true" id="165e0baa-4053-4212-9dc4-5eb925d15bd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/_21_MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/_88_Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/_22_GetKthFromEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/_141_HasCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/_141_HasCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/_203_RemoveElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/_203_RemoveElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/_206_ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/_206_ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/_237_DeleteNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/_237_DeleteNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/_2_AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/_2_AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/_83_DeleteDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/_83_DeleteDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/_876_MiddleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/_876_MiddleNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue/_232_StackRealizeQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/_232_StackRealizeQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Set/_349_Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Set/_349_Intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/_20_IsValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/_20_IsValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/N/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/N/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/N/_559_MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/N/_559_MaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/N/_589_Preorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/N/_589_Preorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/N/_590_Postorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/N/_590_Postorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_101_IsSymmetric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_101_IsSymmetric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_102_LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_102_LevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_104_MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_104_MaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_107_LevelOrderBottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_107_LevelOrderBottom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_114_Flatten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_114_Flatten.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_144_PreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_144_PreorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_145_PostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_145_PostorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_226_InvertTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_226_InvertTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_230_KthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_230_KthSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_450_DeleteBSTNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_450_DeleteBSTNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_662_WidthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_662_WidthOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_938_RangeSumBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_938_RangeSumBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/_94_InorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/_94_InorderTraversal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -20,15 +66,46 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1ec5yfLQDKWY8rGl0pPTaZY9ZP0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="_88_Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm._88_Merge" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._88_Merge" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,10 +118,52 @@
       <option name="presentableId" value="Default" />
       <updated>1594608296905</updated>
       <workItem from="1594608299341" duration="20000" />
+      <workItem from="1594901411165" duration="616000" />
+      <workItem from="1594902058720" duration="943000" />
+      <workItem from="1595335131983" duration="6405000" />
+      <workItem from="1595396157335" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="29" y="90" key="FileChooserDialogImpl" timestamp="1595396184057">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="29" y="90" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1595396184057" />
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom" timestamp="1595340146023">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1595340146023" />
+    <state width="1237" height="208" key="GridCell.Tab.0.center" timestamp="1595340146023">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1595340146023" />
+    <state width="1237" height="208" key="GridCell.Tab.0.left" timestamp="1595340146023">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1595340146023" />
+    <state width="1237" height="208" key="GridCell.Tab.0.right" timestamp="1595340146023">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1595340146023" />
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1595340146118">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1595340146118" />
+    <state width="1237" height="208" key="GridCell.Tab.1.center" timestamp="1595340146117">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1595340146117" />
+    <state width="1237" height="208" key="GridCell.Tab.1.left" timestamp="1595340146117">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1595340146117" />
+    <state width="1237" height="208" key="GridCell.Tab.1.right" timestamp="1595340146118">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1595340146118" />
   </component>
 </project>

@@ -1,8 +1,6 @@
-package _.LeetCode.Tree.N;
+package Tree.N;
 
-import _.LeetCode.List.ListNode;
 import javafx.util.Pair;
-
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;

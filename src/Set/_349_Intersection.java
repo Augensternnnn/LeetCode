@@ -1,4 +1,4 @@
-package _.LeetCode.Set;
+package Set;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

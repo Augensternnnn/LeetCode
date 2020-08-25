@@ -1,4 +1,4 @@
-package _.LeetCode.List;
+package List;
 
 /**
  * 237.删除链表中的节点
